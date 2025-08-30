@@ -1,7 +1,8 @@
 
 # LLM Agent POC – Browser‑Based Multi‑Tool Reasoning
 
-![AI Agent hero banner]({{[file:file-E5hHe2YarCi5KgEnQKkfXC](https://github.com/Mohdshaadsonofvakeel/LLM_Agent_helper/blob/main/imagegen.png)}})
+![AI Agent hero banner](https://github.com/Mohdshaadsonofvakeel/LLM_Agent_helper/blob/main/imagegen.png)
+
 
 An interactive chat interface that goes beyond plain text.  This proof‑of‑concept demonstrates how a client‑side LLM agent can orchestrate external tools — such as web search, AI Pipe completions and a secure JavaScript sandbox — to accomplish complex tasks.  Users choose their preferred LLM provider (OpenAI, Anthropic Claude, Google Gemini or AI Pipe) and the agent automatically loops through reasoning steps until it produces an answer or additional questions.
 
@@ -81,4 +82,5 @@ The project includes a `vercel.json` configuration that serves static assets for
 ## License
 
 This project is released under the MIT License.  Feel free to modify and reuse it for your own applications.
+
 
